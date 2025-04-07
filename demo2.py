@@ -1,2 +1,2 @@
-print("Hello there!")
-x = 5
+print("Hello there buddy!")
+x = 122
